@@ -15,7 +15,7 @@
 		<td>이름</td>
 	</tr>
 	<tr>
-		<td>나원서</td>
+		<td>정송희</td>
 	</tr>
 </table>
 </body>
